@@ -1,0 +1,10 @@
+* cl-annot-revisit
+
+re-implementation of cl-annot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/y2q-actionman/cl-annot-revisit.git   |
+| commit  | b856a4a  |
+| systems | cl-annot-revisit |
+|---------+-------------------------------------------|
+
